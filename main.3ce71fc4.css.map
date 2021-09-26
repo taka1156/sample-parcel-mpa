@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss/index.scss"],"names":[],"mappings":"AACE,YACE,UAEF,WACE","file":"main.3ce71fc4.css","sourceRoot":"../src","sourcesContent":[".box {\n  &__title {\n    color: red;\n  }\n  &__logo {\n    width: 100%;\n  }\n}\n"]}
