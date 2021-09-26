@@ -6,7 +6,7 @@
 
 2. `npm install -D sass`
 
-3. `parcel src/index.html`
+3. `npm run build src/**/*.html`
 
 ## Config
 
