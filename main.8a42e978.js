@@ -13,4 +13,4 @@ var e,t=arguments[3],n=require("process");!function(e,t){"use strict";"object"==
 },{}],"epB2":[function(require,module,exports) {
 "use strict";var e=s(require("./js/index.js"));function s(e){return e&&e.__esModule?e:{default:e}}require("./scss/index.scss"),(0,e.default)();
 },{"./js/index.js":"QvaY","./scss/index.scss":"YvtQ"}]},{},["epB2"], null)
-//# sourceMappingURL=/main.8a42e978.js.map
+//# sourceMappingURL=/sample-parcel-mpa/main.8a42e978.js.map
