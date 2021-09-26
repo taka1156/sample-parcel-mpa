@@ -6,7 +6,9 @@
 
 2. `npm install -D sass`
 
-3. `npm run build src/**/*.html`
+3. `npm run dev` or `npm run build`
+
+4. `npm run deploy`
 
 ## Config
 
